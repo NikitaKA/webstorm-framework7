@@ -1,0 +1,13 @@
+{
+  "name": "com.foo.bar",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "framework7": "^5.7.14",
+    "framework7-vue": "^5.7.14",
+    "vue": "^2.6.12"
+  }
+}
